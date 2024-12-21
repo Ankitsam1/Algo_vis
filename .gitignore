@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules/
 =======
 # Logs
@@ -26,3 +27,6 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> 19949082c74199ceac8ed25fb15ee0bfb07613fa
+=======
+node_modules/
+>>>>>>> a94977c (Initial commit)
